@@ -1,6 +1,6 @@
 # 📬 Sistema de Gestión de Correos
 **Versión:** 1.0  
-**Autor:** Santiago  
+**Autor:** Santiago Herrera, Juan Bohorquez y Julian Quintero
 **Fecha:** 19 de noviembre de 2025  
 
 ---
@@ -49,3 +49,4 @@ Este programa se ejecuta en consola e incluye resaltado de texto mediante códig
 ---
 
 ## 📁 Estructura del Proyecto
+
